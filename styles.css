@@ -9,6 +9,15 @@ h1 {
     margin: 0.2em;
 }
 
+span:nth-child(1) {
+    color: blue;
+}
+span:nth-child(2) {
+    color:red;
+}
+span:nth-child(3) {
+    color:green;
+}
 
 h2 {
     margin: 1em 0 0.25em;

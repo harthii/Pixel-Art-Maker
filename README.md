@@ -1,16 +1,18 @@
 # Pixel Art Maker Project
 
 ## Table of Contents
-
+* [Introduction](#introduction) 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
 
+## Introduction
+This is my latest modified code for the Pixel Art Maker project. The project represents a web page that coulb be used to create a customized grid based on the user input. 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+The user inputs the desired grid hight and length, and the grid will be created upon pressing the submit botton. The user can then click on the each cell on the grid to change it's color, the color of the specific cell clicked will only change. The color can be changed any time using by clicking on the color tab under the "Pick a Color" heading. 
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+The Grid can be reseted by pressing the submit boton at any time.
 
 ## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+This is currently an independent project but I will be happy to allow pull requests after the project is sibmutted.
